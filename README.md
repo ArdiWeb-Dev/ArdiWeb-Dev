@@ -65,5 +65,6 @@
 
 <br>
 
+ <img width = '50px' alight= 'center' src='https://github.com/ArdiWeb-Dev/ArdiWeb-Dev/blob/output/github-contribution-grid-snake.gif' />
 
 -----
